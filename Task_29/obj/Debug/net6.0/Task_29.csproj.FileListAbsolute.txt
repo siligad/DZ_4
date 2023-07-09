@@ -1,0 +1,15 @@
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.csproj.AssemblyReference.cache
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.AssemblyInfoInputs.cache
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.AssemblyInfo.cs
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.csproj.CoreCompileInputs.cache
+D:\Hyb\GB\C#\DZ_4\Task_29\bin\Debug\net6.0\Task_29.exe
+D:\Hyb\GB\C#\DZ_4\Task_29\bin\Debug\net6.0\Task_29.deps.json
+D:\Hyb\GB\C#\DZ_4\Task_29\bin\Debug\net6.0\Task_29.runtimeconfig.json
+D:\Hyb\GB\C#\DZ_4\Task_29\bin\Debug\net6.0\Task_29.dll
+D:\Hyb\GB\C#\DZ_4\Task_29\bin\Debug\net6.0\Task_29.pdb
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.dll
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\refint\Task_29.dll
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.pdb
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\Task_29.genruntimeconfig.cache
+D:\Hyb\GB\C#\DZ_4\Task_29\obj\Debug\net6.0\ref\Task_29.dll
